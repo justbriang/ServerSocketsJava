@@ -27,7 +27,6 @@ import javax.swing.event.ChangeListener;
 public class Main extends Application {
 
     public Stage primaryStage;
-    Server server;
     GridPane gridPane;
 
     @Override
